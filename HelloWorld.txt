@@ -1,1 +1,2 @@
 this is first example of github.
+and this is the second line of this text file. 
